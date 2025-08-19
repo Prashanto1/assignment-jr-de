@@ -56,16 +56,16 @@ assignment_jr_de/
   │   ├─ data_cleaner.py
   │   ├─ trasform_data.py
   │   ├─ oltp_loader.py
-  │   ├─ olap_transformer.py  # placeholder
+  │   ├─ olap_transformer.py  
   │   └─ test*.py
   ├─ analytical_queries/
   │   └─ queries.sql
   ├─ erd/
   │   └─ assigment_schema_erd.png
   └─ data/
-      ├─ filings/              # drop input HTML/PDF files here
+      ├─ filings/              
       └─ config/
-          └─ config.py         # DB connection
+          └─ config.py         
 ```
 
 ---
